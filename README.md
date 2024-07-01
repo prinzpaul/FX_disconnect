@@ -10,5 +10,5 @@ This repository contains the replication code and data for the Meese-Rogoff puzz
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+This project is licensed under the MIT License.
 
